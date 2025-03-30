@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+You can view the live version of the application at: [Live Demo](https://employwise-omashrees-projects.vercel.app)
+
 ## Available Scripts
 
 In the project directory, you can run:
